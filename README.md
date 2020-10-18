@@ -1,6 +1,6 @@
 ### 👋 Hi I'm Victor Navarro
 
-When I was a child  I dreamed to become an inventor.
+When I was a child, I dreamed to become an inventor.
 <br />This is the closest I've ever been
 
 - Love clean software and building apps from smart ideas
